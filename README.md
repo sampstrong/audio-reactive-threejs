@@ -1,2 +1,2 @@
-# auio-reactive-threejs
+# audio-reactive-threejs
 Created with CodeSandbox
